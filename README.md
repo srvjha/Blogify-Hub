@@ -14,7 +14,7 @@ Blogify Hub is a dynamic web application designed for users to express their tho
 - **Appwrite (Backend):** An end-to-end backend server that simplifies backend tasks, ensuring secure user authentication and data storage.
 
 ## 🚦 Running the Project
-1. **Clone the Repository:** 🌀 `git clone [Your Repository URL]`
+1. **Clone the Repository:** 🌀 `git clone [https://github.com/srvjha/Blogify-Hub]`
 2. **Navigate to the Project Directory:** 📂 `cd [Your Project Directory]`
 3. **Install Dependencies:** ⚙️ `npm install`
 4. **Run the Project:** ⚡️ `npm run dev`
@@ -35,4 +35,4 @@ The application employs TinyMCE, offering an intuitive and powerful rich text ed
 Appwrite serves as the backbone, streamlining backend operations and enhancing the security of user authentication and data storage. It simplifies the complexities involved in building a modern backend API, enabling developers to construct secure apps more efficiently.
 
 ## 🚀 Deployment
-Blogify hub is accessible on [Your Demo Link], providing a convenient platform for users to experience the application.
+Blogify hub is accessible on[ blogify-hub-rose.vercel.app](https://blogify-hub-rose.vercel.app/) , providing a convenient platform for users to experience the application.
