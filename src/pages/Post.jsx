@@ -127,7 +127,7 @@ export default function Post() {
                     <button className="flex items-center gap-3 sm:text-xl text-lg" onClick={handleLikeDislike}>
                     {!liked? <FontAwesomeIcon icon={faHeart} className="text-gray-500"  />: 
                     <FontAwesomeIcon icon={faHeart} className="text-pink-500"  />}                    
-                   {likescount}
+                  <div className="text-gray-500" > {likescount}</div>
                    </button>
                     
                     </div>
