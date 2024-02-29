@@ -22,7 +22,7 @@ function Home() {
                             <h1 className="text-3xl px-15 text-white md:text-[52px] lg:text-[72px]
                             font-bold rounded-2xl ">
                                Welcome to
-                               <span className=' text-pink-600'>VyaktiVichar!</span>  
+                               <span className=' text-pink-600'>Blogify Hub!</span>  
                             </h1>
 
                             <div className=' mt-10  text-xl text-white'>
